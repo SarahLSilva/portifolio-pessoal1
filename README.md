@@ -1,6 +1,17 @@
 # portifolio-pessoal1
 
+## indice
+
+* [PROJETO DE ESCRITA README](#inicio)
+* [descrição](#descri%C3%A7%C3%A3o)
+* [introdução](#introdu%C3%A7%C3%A3o)
+* [Funcionalidade](#funcionalidade)
+* [Tecnologias utilizadas](#tecnologia-utilizadas)
+* [Autores](#autores)
+
 ## inicio
+
+## PROJETO DE ESCRITA README
 
 ## descrição
 
@@ -8,6 +19,6 @@
 
 ## Funcionalidade
 
-### Tecnologia utilizadas
+## Tecnologias utilizadas
 
 ## Autores
