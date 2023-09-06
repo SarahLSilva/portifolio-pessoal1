@@ -13,6 +13,8 @@
 
 ## PROJETO DE ESCRITA README
 
+![capa do projeto](img/capa.png)
+
 ## descrição
 
 ## introdução
