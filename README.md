@@ -2,14 +2,13 @@
 
 ## indice
 
-* [PROJETO DE ESCRITA README](#inicio)
+* [PROJETO DE ESCRITA README](#PROJETO-DE-ESCRITA-README)
 * [descrição](#descri%C3%A7%C3%A3o)
 * [introdução](#introdu%C3%A7%C3%A3o)
 * [Funcionalidade](#funcionalidade)
 * [Tecnologias utilizadas](#tecnologia-utilizadas)
 * [Autores](#autores)
 
-## inicio
 
 ## PROJETO DE ESCRITA README
 
@@ -17,10 +16,18 @@
 
 ## descrição
 
+tradução da pagigina exemplo do boostrap 5
+
 ## introdução
 
 ## Funcionalidade
 
+atividade aumentar o conhecimento dos alunos na lingua inglesa
+
 ## Tecnologias utilizadas
 
+html
+
 ## Autores
+
+- Sarah
